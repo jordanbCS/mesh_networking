@@ -21,3 +21,5 @@ Open source community oriented project that has some good long-term reasons to p
 ## Related information  
 
  - https://medium.com/rightmesh/what-is-mobile-mesh-networking-964732814943  
+ - https://www.geckoandfly.com/22562/chat-without-internet-connection-mesh-network/  
+  
