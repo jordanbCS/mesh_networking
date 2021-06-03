@@ -1,6 +1,6 @@
 # Mesh networking in 2021  
 
-Best option for now is probably a kind of "line of site repeater". Will need to maximize tree top line of sites.
+Best option for now is probably a kind of "line of site repeater". 
 
 ## Devices  
 
