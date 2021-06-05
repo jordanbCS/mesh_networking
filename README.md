@@ -18,11 +18,8 @@ Open source community oriented project that has some good long-term reasons to p
  - https://librerouter.org/technical-specifications/   
  - In order to order a LibreRouter you need to send an email to librerouter@altermundi.net
 
-## Related information  
 
- - https://medium.com/rightmesh/what-is-mobile-mesh-networking-964732814943  
-
-### Apps  
+## Apps  
 
 Not sure to what extent these apps will extend range by daisy-chaining along a route but no harm trying.  
  - https://www.geckoandfly.com/22562/chat-without-internet-connection-mesh-network/  
@@ -39,4 +36,7 @@ Not sure to what extent these apps will extend range by daisy-chaining along a r
      - https://en.wikipedia.org/wiki/Briar_(software)   
      - https://play.google.com/store/apps/details?id=org.briarproject.briar.android&hl=en_US&gl=US   
 
- 
+ ## Related information  
+
+ - https://medium.com/rightmesh/what-is-mobile-mesh-networking-964732814943  
+
