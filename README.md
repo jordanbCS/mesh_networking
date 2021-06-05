@@ -32,7 +32,7 @@ Not sure to what extent these apps will extend range by daisy-chaining along a r
       - https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/  
    - I was unable to dowload "Serval mesh" for Android and the website looks last updated in 2018.  
      - https://en.wikipedia.org/wiki/Serval_Project   
-   - "Briar" looks like it could be something. Reviews are sparse but nothing obviously damning. Apparently end to end encrypted etc...     
+   - [update:Android only :(]"Briar" looks like it could be something. Reviews are sparse but nothing obviously damning. Apparently end to end encrypted etc...     
      - https://en.wikipedia.org/wiki/Briar_(software)   
      - https://play.google.com/store/apps/details?id=org.briarproject.briar.android&hl=en_US&gl=US   
 
