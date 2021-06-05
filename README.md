@@ -21,5 +21,18 @@ Open source community oriented project that has some good long-term reasons to p
 ## Related information  
 
  - https://medium.com/rightmesh/what-is-mobile-mesh-networking-964732814943  
+
+### Apps  
+
+Not sure to what extent these apps will extend range by daisy-chaining along a route but no harm trying.  
  - https://www.geckoandfly.com/22562/chat-without-internet-connection-mesh-network/  
-  
+   - "firechat" looks like an archived project. Which is too be as it looks to to have had a decent track record and claims to be secure for person to person communication with end to end encryption.  
+     - https://en.wikipedia.org/wiki/FireChat  
+     - https://github.com/FirebaseExtended/firechat   
+   - the "Signal Offline Messenger" looks like it would be very convenient but the reviews are so bad... https://play.google.com/store/apps/details?id=com.raxis.signalapp&hl=en_CA&gl=US  
+   - "bridgefy" is, according to Ars Technica 08/2020, not secure. https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/      - I was unable to dowload "Serval mesh" for Android and the website looks last updated in 2018. https://en.wikipedia.org/wiki/Serval_Project   
+   - "Briar" looks like it could be something. Reviews are sparse but nothing obviously damning.     
+     - https://en.wikipedia.org/wiki/Briar_(software)   
+     - https://play.google.com/store/apps/details?id=org.briarproject.briar.android&hl=en_US&gl=US   
+
+ 
